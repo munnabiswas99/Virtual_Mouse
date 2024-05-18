@@ -1,5 +1,4 @@
-from Eye1 import *
-from Hand1 import *
+from Controls import *
 
 x = int(input('Enter 1 for eye control\n2 for hand control\n'))
 obj1 = Eye()
